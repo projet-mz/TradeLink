@@ -1,8 +1,8 @@
 
 :root {
-  --theme-default: #6600CC;
+  --theme-default: #006600;
   /* --theme-default2: #9516d7; */
-  --theme-default2: #660099;
+  --theme-default2: #009900;
   --theme-gradient1: linear-gradient(to right, var(--theme-default) 0%, var(--theme-default2) 51%, var(--theme-default) 100%);
   --theme-gradient2: linear-gradient(to right, var(--theme-default) 0%, var(--theme-default2) 100%);
   --theme-gradient3: linear-gradient(48deg, var(--theme-default) 0%, var(--theme-default2) 100%);
@@ -17,8 +17,8 @@
   --theme-default7: #f34451;
   --theme-gradient8: linear-gradient(to right, var(--theme-default6) 0%, var(--theme-default7) 51%, var(--theme-default6) 100%);
   --theme-gradient9: linear-gradient(90deg, var(--theme-default6) 0%, var(--theme-default7) 100%);
-  --theme-default8: #6600CC;
-  --theme-default9: #660099;
+  --theme-default8: #006600;
+  --theme-default9: #009900;
   --theme-gradient10: linear-gradient(to right, var(--theme-default8) 0%, var(--theme-default9) 51%, var(--theme-default8) 100%);
   --theme-gradient11: linear-gradient(to right, var(--theme-default8) 0%, var(--theme-default9) 100%);
   --theme-gradient12: linear-gradient(48deg, var(--theme-default8) 0%, var(--theme-default9) 100%);
