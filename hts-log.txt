@@ -1,0 +1,71 @@
+HTTrack3.49-5 launched on Wed, 11 Jun 2025 05:01:43 at https://ghcampusmarket.com/ %v
+(httrack https://ghcampusmarket.com/ -O /home/zero/ghcampus_clone -r5 -w -c4 -%! %v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:01:43	Warning: 	* security warning: !!! BYPASSING SECURITY LIMITS - MONITOR THIS SESSION WITH EXTREME CARE !!!
+05:05:00	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link %v/robots.txt (from primary/primary)
+05:05:00	Warning: 	Retry after error -5 (Unable to get server's address: Name or service not known) at link %v/ (from primary/primary)
+05:18:18	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/9e37b0ec-0563-4ff2-bbb1-b6c0e341e244
+05:18:20	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/9e2fa662-83bb-4254-9841-4345328482c6
+05:18:26	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/9c2c5c34-4920-4c9c-ab65-f67c541aa07c
+05:19:26	Error: 	"Method Not Allowed" (405) at link https://ghcampusmarket.com/user/favourite (from https://ghcampusmarket.com/)
+05:19:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link %v/ (from primary/primary)
+05:20:14	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/9a15c21d-b47c-4bd3-810b-137a77d2d994
+05:22:17	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/98fd2805-2631-4033-8d6e-2138d8c052a7
+05:22:24	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/98f530a3-3a91-4c14-871b-196b151499df
+05:25:53	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/9a1b4db2-70d7-4762-aec7-69eeb3579bfb
+05:26:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ghcampusmarket.com/images/products/wig-braids_2302160907205362.jpg (from https://ghcampusmarket.com/product/wig-braids)
+05:26:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ghcampusmarket.com/user/change-password (from https://ghcampusmarket.com/product/tiens-zinc-capsules)
+05:27:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ghcampusmarket.com/images/old/20190921063932amcbsIMG-20190914-WA0020.jpg (from https://ghcampusmarket.com/product/converse)
+05:28:12	Warning: 	Retry after error -4 (Incorrect length (98304 Bytes, 146784 expected)) at link https://ghcampusmarket.com/images/products/led-strip-light_2308290334284771.jpg (from https://ghcampusmarket.com/category/electrical-appliances)
+05:28:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ghcampusmarket.com/product/portable-gas-stove (from https://ghcampusmarket.com/category/electrical-appliances)
+05:28:14	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/99e2edf0-d211-45d1-a2e4-12935e8b0357
+05:28:21	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/99bf324d-44b6-45dd-beb5-7b9054b3d273
+05:28:24	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/99bf30ee-45ba-4c8d-9e0f-15e135f139fc
+05:28:29	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/99bf2896-311d-499e-a80c-4e626082973b
+05:28:35	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/98e8fa28-816b-4f4d-bdf0-8ea13e2c33c6
+05:31:38	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/982bedfc-5634-4026-93e3-c86d1b0a9802
+05:31:47	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/982bedf2-7a2e-41a7-a372-0db0c0d82bc3
+05:32:00	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/984ef79c-c495-4a5a-9a11-d1a4424dd57a
+05:32:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ghcampusmarket.com/product/home-organiser (from https://ghcampusmarket.com/category/hostel-furniture)
+05:32:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ghcampusmarket.com/images/products/home-organiser_2308290329144991.png (from https://ghcampusmarket.com/category/hostel-furniture)
+05:32:07	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/98ed1cac-642d-4656-8459-ef464e808907
+05:32:11	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/98456061-f7d1-4682-8921-2068f0d692f2
+05:32:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ghcampusmarket.com/images/old/20191118035831pmcbs9651841597_811803492.64x64.jpg (from https://ghcampusmarket.com/category/art-sports-hobbies)
+05:32:46	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/982bedf7-b198-4ec2-bfb9-01652634b726
+05:32:56	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/982bee0c-535d-4be3-b2cf-f63c23798b21
+05:33:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ghcampusmarket.com/images/products/photo-framing_2311070947246234.jpeg (from https://ghcampusmarket.com/product/photo-framing)
+05:33:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ghcampusmarket.com/images/products/photo-framing_2311070947242078.jpeg (from https://ghcampusmarket.com/product/photo-framing)
+05:33:34	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link %v/ (from primary/primary)
+05:33:50	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/982bedd4-bdbb-41d8-b417-aaf2ad73281a
+05:33:59	Error: 	"Not Found" (404) at link https://ghcampusmarket.com/images/old/20190212122346amcbsScreenshot (145 (from https://ghcampusmarket.com/product/hp-probook-x360-convertible-laptop)
+05:34:04	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/9873750c-62db-475b-9226-30e12cfbbc87
+05:34:06	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/98f52bcd-473b-4901-85b8-880682eb5d5a
+05:34:13	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/9851be91-534e-42c7-a9c6-0401ba4d685d
+05:34:16	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/984e86a9-5ee1-4d30-99d0-a6de0d0ee08d
+05:34:22	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/984b9c05-9c0e-4399-a566-c6cdbe7c5e51
+05:34:40	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/99d74e5a-f169-4cef-acc4-c9f89d19fe38
+05:34:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ghcampusmarket.com/images/products/original-turkish-lacoste_2308011143475203.jpg (from https://ghcampusmarket.com/category/clothing)
+05:34:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ghcampusmarket.com/product/clothes (from https://ghcampusmarket.com/category/clothing)
+05:34:49	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/98bfbe9f-30f2-4bc5-8aba-82c7f77defdb
+05:35:03	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/984ec3af-9ad6-40d3-bf4e-6a3b788ec968
+05:36:03	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/98a15148-33f4-4a4b-b2fa-355086ebffc9
+05:36:11	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/98702456-5fc2-48a8-a10e-ecf6d30aece4
+05:36:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ghcampusmarket.com/images/products/apparels-sandals-heels_2302111208548334.jpeg (from https://ghcampusmarket.com/category/shoes)
+05:36:14	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/98619d2a-e371-4eba-968d-6ae5891b39c6
+05:37:02	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/9895b8ad-a930-4ad7-9f67-440cf32b92d5
+05:37:27	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/98b04b3b-1a37-4f4d-9473-ba32013270f3
+05:37:31	Warning: 	Found for https://ghcampusmarket.com/user/change-password
+05:37:31	Warning: 	File has moved from https://ghcampusmarket.com/user/change-password to https://ghcampusmarket.com/login
+05:37:42	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/99e2ef5d-3aaf-4e0b-8ff2-715129ac5a0c
+05:37:47	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/99d746be-6582-4562-aa2f-eb365dff7cd8
+05:37:58	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/99d5359f-06b8-425a-a65d-eb506add314d
+05:38:05	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/99d533b1-842f-4a9a-b18d-ce70b989e91c
+05:38:56	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://ghcampusmarket.com/get-more-feedback/98bf9457-4eaf-4771-a970-98960cb3876f
+
+HTTrack Website Copier/3.49-5 mirror complete in 37 minutes 20 seconds : 1652 links scanned, 1631 files written (269167645 bytes overall) [244083230 bytes received at 108965 bytes/sec], 32922890 bytes transferred using HTTP compression in 554 files, ratio 18%, 7.5 requests per connection
+(4 errors, 56 warnings, 0 messages)
